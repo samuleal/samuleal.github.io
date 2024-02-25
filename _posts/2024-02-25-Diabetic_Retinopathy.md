@@ -26,7 +26,7 @@ Overall, LuxIA's cloud-based nature makes it a promising tool for expanding acce
 
 ## References
 
-** Research article: ** Blair JPM, Rodriguez JN, Lasagni Vitar RM, Stadelmann MA, Abreu-González R, Donate J, Ciller C, Apostolopoulos S, Bermudez C, De Zanet S. Development of LuxIA, a Cloud-Based AI Diabetic Retinopathy Screening Tool Using a Single Color Fundus Image. Transl Vis Sci Technol. 2023 Nov 1;12(11):38. doi: 10.1167/tvst.12.11.38. PMID: 38032322; PMCID: PMC10691390.
-** Image from: ** medicine.uiowa.edu/eye/patient-care/imaging-services/color-fundus-photography
+**Research article:** Blair JPM, Rodriguez JN, Lasagni Vitar RM, Stadelmann MA, Abreu-González R, Donate J, Ciller C, Apostolopoulos S, Bermudez C, De Zanet S. Development of LuxIA, a Cloud-Based AI Diabetic Retinopathy Screening Tool Using a Single Color Fundus Image. Transl Vis Sci Technol. 2023 Nov 1;12(11):38. doi: 10.1167/tvst.12.11.38. PMID: 38032322; PMCID: PMC10691390.
+**Image from:** medicine.uiowa.edu/eye/patient-care/imaging-services/color-fundus-photography
 
 
